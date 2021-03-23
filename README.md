@@ -1,2 +1,2 @@
 # thinks
-A repo to hold my choose your adventure story project
+A repo to hold my ongoing "choose your adventure story" project and associated ideas :)
